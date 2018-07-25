@@ -43,4 +43,4 @@ Plans should include videos, resources, or exercises the student will complete i
 
 ## Part IV - Address Any Additional Needs
 
-If there are any specific needs or concerns with the student, share them with a PM or Instructor.
+If there are any follow-up questions about a student's code that should be discussed with a project manager or instructor, please make note in the Peer Code Review form: https://airtable.com/shrVBzrhkcT6GqExr

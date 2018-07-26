@@ -10,7 +10,7 @@ At a minimum, review the code for the following:
 2. Each project is feature complete and works as expected.
 3. There are no exceptions or warnings in your console or Chrome Developer Tools.
 4. Code follows consistent naming conventions, language idioms, and style.
-5. Code is written by the student.
+5. Code is written by the student. If the code was written while pair programming, the student being reviewed should be prepared to distinguish the aspects which they worked on, but also be able to explain what their pair programming partner wrote.
 
 ## Part II - Review Objectives
 

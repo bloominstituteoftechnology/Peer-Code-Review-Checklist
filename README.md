@@ -2,6 +2,8 @@
 
 Code review is the time to catch issues and help students who don't understand concepts from the day or week. Students can use the peer code review as an opportunity to push and challenge each other technically. While students should feel free to ask questions, they should also be ready to explain and defend their code.
 
+For Peer Code Reviews, each person in the pair will take turns reviewing and being reviewed.
+
 ## Part I - Review Projects
 
 At a minimum, review the code for the following:

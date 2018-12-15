@@ -1,6 +1,6 @@
 Millan Figueroa
 
-Review Oscar (?)
+Review John O'Keefe (?)
 
 # Lambda School Peer Code Review Checklist
 
@@ -12,18 +12,18 @@ For Peer Code Reviews, each person in the pair will take turns reviewing and bei
 
 At a minimum, review the code for the following:
 
-1. 2
-2. 2
-3. 2
-4. 2
-5. 2
+1. 3
+2. 3
+3. 3
+4. 3
+5. 3
 
 ## Part II - Review Objectives
 
 Objectives from the Training Kit are written in our 'Student can...' format, and reflect the skills that students are expected to demonstrate in their assignments. Using the [Peer Code Review form](https://airtable.com/shrVBzrhkcT6GqExr), review each competency or objective in each sample of code, to determine an overall rating (0-3).
 
-1. 0
-2. 2
+1. 3
+2. 3
 
 #### Rating Scale
 
@@ -51,4 +51,4 @@ Plans should include videos, resources, or exercises the student will complete i
 
 If there are any follow-up questions about a student's code that should be discussed with a project manager or instructor, please make note in the Peer Code Review form: https://airtable.com/shrVBzrhkcT6GqExr
 
-No, the meeting was ended suddenly so no plans were made.
+His code was really really good. He invited me to his CodePen to take a look at it sometime to help with mine. 

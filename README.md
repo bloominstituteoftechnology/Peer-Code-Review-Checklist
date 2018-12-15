@@ -1,3 +1,7 @@
+Millan Figueroa
+
+Review John O'Keefe (?)
+
 # Lambda School Peer Code Review Checklist
 
 Code review is the time to catch issues and help students who don't understand concepts from the day or week. Students can use the peer code review as an opportunity to push and challenge each other technically. While students should feel free to ask questions, they should also be ready to explain and defend their code.
@@ -8,18 +12,18 @@ For Peer Code Reviews, each person in the pair will take turns reviewing and bei
 
 At a minimum, review the code for the following:
 
-1. Each project is pushed to GitHub with clear, detailed commit messages.
-2. Each project is feature complete and works as expected.
-3. There are no exceptions or warnings in your console or Chrome Developer Tools.
-4. Code follows consistent naming conventions, language idioms, and style.
-5. Code is written by the student. If the code was written while pair programming, the student being reviewed should be prepared to distinguish the aspects which they worked on, but also be able to explain what their pair programming partner wrote.
+1. 3
+2. 3
+3. 3
+4. 3
+5. 3
 
 ## Part II - Review Objectives
 
 Objectives from the Training Kit are written in our 'Student can...' format, and reflect the skills that students are expected to demonstrate in their assignments. Using the [Peer Code Review form](https://airtable.com/shrVBzrhkcT6GqExr), review each competency or objective in each sample of code, to determine an overall rating (0-3).
 
-1. Ask to see examples of each objective in the project.
-2. Ask the student to explain the code and how it demonstrates their mastery.
+1. 3
+2. 3
 
 #### Rating Scale
 
@@ -46,3 +50,5 @@ Plans should include videos, resources, or exercises the student will complete i
 ## Part IV - Address Any Additional Needs
 
 If there are any follow-up questions about a student's code that should be discussed with a project manager or instructor, please make note in the Peer Code Review form: https://airtable.com/shrVBzrhkcT6GqExr
+
+His code was really really good. He invited me to his CodePen to take a look at it sometime to help with mine. 
